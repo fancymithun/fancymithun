@@ -8,8 +8,8 @@
          \|__|\|__|\|_______|\|_______|\|_______|    \|__|        \|__|     \|__|\|_______|
 ```
 
-<h5 align="left">Hi 👋, I'm Mithun Prabhu</h5>
-<h5 align="left">Full stack developer</h5>
+<h5 align="left" display="inline-block">Hi 👋, I'm Mithun Prabhu</h5>
+<h5 align="left" display="inline-block">Full stack developer</h5>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
